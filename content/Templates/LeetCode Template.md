@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 ## title: leetcode_number: difficulty: pattern: tags: [leetcode, ] date: status: # attempted / solved / needs-review
 
 # [Problem Number]. [Problem Title]

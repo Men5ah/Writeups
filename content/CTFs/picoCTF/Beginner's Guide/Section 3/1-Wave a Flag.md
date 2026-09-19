@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 # Wave a Flag
 
 Category: #General_Skills 

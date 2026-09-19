@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 # buffer overflow 0
 
 Category: #Binary_Exploitation

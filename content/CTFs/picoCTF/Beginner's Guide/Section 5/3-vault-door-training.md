@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 # vault-door-training
 
 Category: #Reverse_Engineering

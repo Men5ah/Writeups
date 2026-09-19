@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 # vault door 4
 
 Category: #Reverse_Engineering 

@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 ## Context
 
 - I am an analyst on the **Security Awareness Team**.

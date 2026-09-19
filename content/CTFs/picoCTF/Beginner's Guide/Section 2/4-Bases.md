@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 # Bases
 
 Category: #General_Skills  

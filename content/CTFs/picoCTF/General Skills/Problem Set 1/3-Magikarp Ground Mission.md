@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 # Magikarp Ground Mission
 
 Category: #General_Skills 

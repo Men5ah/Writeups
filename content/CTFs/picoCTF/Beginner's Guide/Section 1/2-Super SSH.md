@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 # Super SSH
 
 Category: #General_Skills

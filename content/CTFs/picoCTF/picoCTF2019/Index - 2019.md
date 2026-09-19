@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 This is the index for all picoCTF2019 challenges
 
 ## Easy

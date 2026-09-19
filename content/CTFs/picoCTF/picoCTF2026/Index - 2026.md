@@ -1,2 +1,6 @@
+---
+publish: true
+---
+
 ## Easy
 - [[Undo]]

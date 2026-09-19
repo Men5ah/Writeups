@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 # Insp3ct0r
 
 Category: #Web_Exploitation

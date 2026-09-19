@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 # PW Crack 1
 
 Category: #General_Skills 

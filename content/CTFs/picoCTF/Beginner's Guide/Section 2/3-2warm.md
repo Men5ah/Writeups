@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 # 2warm
 
 Category: #General_Skills 

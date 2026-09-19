@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 # Let's Warm Up
 
 Category: #General_Skills 

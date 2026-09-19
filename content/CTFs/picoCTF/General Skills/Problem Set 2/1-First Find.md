@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 # 1-First Find
 
 Category: #General_Skills 

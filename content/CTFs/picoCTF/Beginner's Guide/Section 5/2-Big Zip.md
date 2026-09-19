@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 # Big Zip
 
 Category: #General_Skills 

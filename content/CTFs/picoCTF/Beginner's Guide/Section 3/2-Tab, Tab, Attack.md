@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 # Tab, Tab, Attack
 
 Category: #General_Skills 

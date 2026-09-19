@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 # Enhance!
 
 Category: #Forensics

@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 # Python Wrangling
 
 Category: #General_Skills 

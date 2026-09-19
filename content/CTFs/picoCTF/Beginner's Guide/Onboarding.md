@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 # Onboarding
 
 ## What is a flag?

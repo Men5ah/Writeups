@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 # vault door 3
 
 Category: #Reverse_Engineering 

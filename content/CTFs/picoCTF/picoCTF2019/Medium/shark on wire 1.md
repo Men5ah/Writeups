@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 # shark on wire 1
 
 Category: #Forensics 

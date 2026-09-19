@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 # dont-use-client-side
 
 Category: #Web_Exploitation 

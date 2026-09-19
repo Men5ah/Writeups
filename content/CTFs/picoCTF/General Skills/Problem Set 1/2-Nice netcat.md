@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 # 2-Nice netcat
 
 Category: #General_Skills 

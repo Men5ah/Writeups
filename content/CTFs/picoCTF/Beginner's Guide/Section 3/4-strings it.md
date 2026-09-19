@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 # strings it
 
 Category: #General_Skills 

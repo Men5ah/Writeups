@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 # Static ain't always noise
 
 Category: #General_Skills 

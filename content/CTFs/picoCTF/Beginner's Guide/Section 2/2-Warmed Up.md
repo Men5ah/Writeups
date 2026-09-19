@@ -1,3 +1,7 @@
+---
+publish: true
+---
+
 # 2-Warmed Up
 
 Category: #General_Skills 
